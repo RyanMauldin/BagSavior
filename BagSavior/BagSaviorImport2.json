@@ -1,0 +1,11 @@
+﻿{
+  "BagStrength" : 3,
+  "ItemTypes": [
+    "DAIRY",
+    "DAIRY",
+    "PRODUCE",
+    "PRODUCE",
+    "PRODUCE",
+    "MEAT"
+  ]
+}

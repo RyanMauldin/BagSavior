@@ -1,0 +1,14 @@
+C:\Projects\BagSavior\BagSavior.Library\bin\Debug\BagSavior.Library.dll
+C:\Projects\BagSavior\BagSavior.Library\bin\Debug\BagSavior.Library.pdb
+C:\Projects\BagSavior\BagSavior.Library\bin\Debug\BagSavior.Configuration.dll
+C:\Projects\BagSavior\BagSavior.Library\bin\Debug\BagSavior.Configuration.pdb
+C:\Projects\BagSavior\BagSavior.Library\obj\Debug\BagSavior.Library.csprojResolveAssemblyReference.cache
+C:\Projects\BagSavior\BagSavior.Library\obj\Debug\BagSavior.Library.dll
+C:\Projects\BagSavior\BagSavior.Library\obj\Debug\BagSavior.Library.pdb
+C:\Users\rmauldin\Documents\GitHub\BagSavior\BagSavior.Library\bin\Debug\BagSavior.Library.dll
+C:\Users\rmauldin\Documents\GitHub\BagSavior\BagSavior.Library\bin\Debug\BagSavior.Library.pdb
+C:\Users\rmauldin\Documents\GitHub\BagSavior\BagSavior.Library\bin\Debug\BagSavior.Configuration.dll
+C:\Users\rmauldin\Documents\GitHub\BagSavior\BagSavior.Library\bin\Debug\BagSavior.Configuration.pdb
+C:\Users\rmauldin\Documents\GitHub\BagSavior\BagSavior.Library\obj\Debug\BagSavior.Library.csprojResolveAssemblyReference.cache
+C:\Users\rmauldin\Documents\GitHub\BagSavior\BagSavior.Library\obj\Debug\BagSavior.Library.dll
+C:\Users\rmauldin\Documents\GitHub\BagSavior\BagSavior.Library\obj\Debug\BagSavior.Library.pdb

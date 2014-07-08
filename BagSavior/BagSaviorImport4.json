@@ -1,0 +1,16 @@
+﻿{
+  "BagStrength" : 5,
+  "ItemTypes": [
+    "CANNED",
+	"CANNED",
+	"PRODUCE",
+    "DAIRY",
+	"MEAT",
+	"BREAD",
+    "HOUSEHOLD",
+	"PRODUCE",
+	"FROZEN",
+    "PRODUCE",
+	"DAIRY"
+  ]
+}
