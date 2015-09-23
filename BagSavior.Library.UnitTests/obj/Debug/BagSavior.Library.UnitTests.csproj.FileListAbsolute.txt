@@ -1,9 +1,0 @@
-C:\Projects\BagSavior\BagSavior.Library.UnitTests\bin\Debug\BagSavior.Library.UnitTests.dll
-C:\Projects\BagSavior\BagSavior.Library.UnitTests\bin\Debug\BagSavior.Library.UnitTests.pdb
-C:\Projects\BagSavior\BagSavior.Library.UnitTests\bin\Debug\BagSavior.Configuration.dll
-C:\Projects\BagSavior\BagSavior.Library.UnitTests\bin\Debug\BagSavior.Library.dll
-C:\Projects\BagSavior\BagSavior.Library.UnitTests\bin\Debug\BagSavior.Configuration.pdb
-C:\Projects\BagSavior\BagSavior.Library.UnitTests\bin\Debug\BagSavior.Library.pdb
-C:\Projects\BagSavior\BagSavior.Library.UnitTests\obj\Debug\BagSavior.Library.UnitTests.csprojResolveAssemblyReference.cache
-C:\Projects\BagSavior\BagSavior.Library.UnitTests\obj\Debug\BagSavior.Library.UnitTests.dll
-C:\Projects\BagSavior\BagSavior.Library.UnitTests\obj\Debug\BagSavior.Library.UnitTests.pdb
